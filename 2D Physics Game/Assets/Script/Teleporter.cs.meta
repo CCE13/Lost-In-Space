@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71928925dba24c14782ff98f101a7e32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <TeleportorLinkedTo>k__BackingField: {instanceID: 0}
+  - _teleportingSFX: {fileID: 8300000, guid: 7586788332fd4754782ba91725482486, type: 3}
+  - <TriggerCollider>k__BackingField: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
